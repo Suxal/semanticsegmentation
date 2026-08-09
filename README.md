@@ -1,4 +1,4 @@
-# semanticsegmentation
+# semantic-segmentation-benchmarking
 
 # Semantic Segmentation Benchmarking
 
